@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6">
+<node lat="0.1235917" lon="0.1234659" id="69" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.123295" lon="0.1235665" id="50" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1233746" lon="0.1236357" id="48" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1234578" lon="0.1233204" id="20" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1234515" lon="0.1233257" id="21" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1234777" lon="0.123306" id="56" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1235329" lon="0.123624" id="16" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1235075" lon="0.1235449" id="37" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1232525" lon="0.1234605" id="29" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.123551" lon="0.1236051" id="13" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1235356" lon="0.1236159" id="15" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.123494" lon="0.1233006" id="57" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1235799" lon="0.1234506" id="66" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1233809" lon="0.1236437" id="34" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1235464" lon="0.1236473" id="19" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1236152" lon="0.1234488" id="68" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1235781" lon="0.123624" id="9" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1235555" lon="0.1236491" id="5" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1233827" lon="0.1234201" id="26" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.123314" lon="0.1235512" id="49" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1234714" lon="0.1234533" id="63" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1232842" lon="0.1233752" id="4" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1236043" lon="0.1234039" id="45" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1235898" lon="0.123385" id="44" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1234298" lon="0.1233698" id="24" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1234415" lon="0.1233392" id="22" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1235817" lon="0.1234955" id="39" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1235103" lon="0.1232979" id="58" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1235338" lon="0.1236339" id="17" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1235808" lon="0.1234937" id="38" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1235727" lon="0.123642" id="7" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1232769" lon="0.1234991" id="54" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1234343" lon="0.1233536" id="23" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1232534" lon="0.1235162" id="53" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1233294" lon="0.1233302" id="2" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1236007" lon="0.1233617" id="42" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1235898" lon="0.1233168" id="40" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1235419" lon="0.1236087" id="14" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1234641" lon="0.123315" id="55" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1235048" lon="0.1234982" id="62" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.12356" lon="0.1236051" id="12" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1234108" lon="0.1236851" id="33" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1232787" lon="0.1234982" id="28" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1232842" lon="0.1233302" id="1" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.123588" lon="0.123491" id="31" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1235428" lon="0.1233024" id="60" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1233294" lon="0.1233752" id="3" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1235121" lon="0.1235512" id="36" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1234886" lon="0.1235674" id="35" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1235754" lon="0.1236159" id="10" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1235772" lon="0.1236339" id="8" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1235645" lon="0.1236473" id="6" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1234524" lon="0.123536" id="61" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1235383" lon="0.123642" id="18" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.123569" lon="0.1236087" id="11" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1236007" lon="0.1233168" id="41" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1235546" lon="0.123447" id="65" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1235898" lon="0.1233617" id="43" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1236034" lon="0.1234335" id="67" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1236405" lon="0.1234533" id="47" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1233846" lon="0.1234228" id="27" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1235265" lon="0.1232988" id="59" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.123607" lon="0.1234084" id="46" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1236188" lon="0.1235324" id="32" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1234515" lon="0.1233123" id="30" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1234189" lon="0.1234919" id="64" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1232751" lon="0.1235422" id="51" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1232733" lon="0.123544" id="52" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<node lat="0.1234289" lon="0.1233859" id="25" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999"/>
+<way id="1" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999">
+<nd ref="1"/>
+<nd ref="2"/>
+<nd ref="3"/>
+<nd ref="4"/>
+<nd ref="1"/>
+<tag k="building" v="yes"/>
+</way>
+<way id="2" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999">
+<nd ref="5"/>
+<nd ref="6"/>
+<nd ref="7"/>
+<nd ref="8"/>
+<nd ref="9"/>
+<nd ref="10"/>
+<nd ref="11"/>
+<nd ref="12"/>
+<nd ref="13"/>
+<nd ref="14"/>
+<nd ref="15"/>
+<nd ref="16"/>
+<nd ref="17"/>
+<nd ref="18"/>
+<nd ref="19"/>
+<nd ref="5"/>
+<tag k="building" v="yes"/>
+</way>
+<way id="3" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999">
+<nd ref="20"/>
+<nd ref="21"/>
+<nd ref="22"/>
+<nd ref="23"/>
+<nd ref="24"/>
+<nd ref="25"/>
+<nd ref="26"/>
+<nd ref="27"/>
+<nd ref="28"/>
+<nd ref="29"/>
+<nd ref="30"/>
+<nd ref="20"/>
+<tag k="building" v="yes"/>
+</way>
+<way id="4" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999">
+<nd ref="31"/>
+<nd ref="32"/>
+<nd ref="33"/>
+<nd ref="34"/>
+<nd ref="35"/>
+<nd ref="36"/>
+<nd ref="37"/>
+<nd ref="38"/>
+<nd ref="39"/>
+<nd ref="31"/>
+<tag k="building" v="yes"/>
+</way>
+<way id="70" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999">
+<nd ref="40"/>
+<nd ref="41"/>
+<nd ref="42"/>
+<nd ref="43"/>
+<nd ref="44"/>
+<nd ref="45"/>
+<nd ref="46"/>
+<nd ref="47"/>
+<nd ref="31"/>
+<nd ref="39"/>
+<nd ref="38"/>
+<nd ref="37"/>
+<nd ref="36"/>
+<nd ref="35"/>
+<nd ref="34"/>
+<nd ref="48"/>
+<nd ref="49"/>
+<nd ref="50"/>
+<nd ref="51"/>
+<nd ref="52"/>
+<nd ref="53"/>
+<nd ref="54"/>
+<nd ref="28"/>
+<nd ref="27"/>
+<nd ref="26"/>
+<nd ref="25"/>
+<nd ref="24"/>
+<nd ref="23"/>
+<nd ref="22"/>
+<nd ref="21"/>
+<nd ref="20"/>
+<nd ref="55"/>
+<nd ref="56"/>
+<nd ref="57"/>
+<nd ref="58"/>
+<nd ref="59"/>
+<nd ref="60"/>
+<nd ref="40"/>
+</way>
+<way id="71" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999">
+<nd ref="61"/>
+<nd ref="62"/>
+<nd ref="63"/>
+<nd ref="64"/>
+<nd ref="61"/>
+</way>
+<way id="72" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999">
+<nd ref="31"/>
+<nd ref="47"/>
+<nd ref="46"/>
+<nd ref="65"/>
+<nd ref="31"/>
+</way>
+<way id="73" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999">
+<nd ref="66"/>
+<nd ref="67"/>
+<nd ref="68"/>
+<nd ref="69"/>
+<nd ref="66"/>
+</way>
+<relation id="5" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999">
+<member type="way" ref="70" role="outer"/>
+<member type="way" ref="71" role="inner"/>
+<tag k="type" v="multipolygon"/>
+<tag k="addr:city" v="Nowhere"/>
+<tag k="addr:housenumber" v="660"/>
+<tag k="addr:street" v="Unknown Street"/>
+<tag k="building" v="yes"/>
+</relation>
+<relation id="6" user="jfd553" uid="101184" timestamp="2019-06-19T01:53:36Z" visible="true" version="1" changeset="999">
+<member type="way" ref="72" role="outer"/>
+<member type="way" ref="73" role="inner"/>
+<tag k="type" v="multipolygon"/>
+<tag k="building" v="yes"/>
+<tag k="building:part" v="yes"/>
+</relation></osm>
