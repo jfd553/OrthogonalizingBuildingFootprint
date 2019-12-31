@@ -1,5 +1,5 @@
 # OrthogonalizingBuildingFootprint
-Algorithms and documentation of an application to orthogonalize building footprints.
+Algorithms and documentation of an application that orthogonalizes building footprints.
 
 OrthogonalizingBuildingFootprint.fmw is an FME workbench created to orthogonalize building footprints. An FME workbench is a text file that is interpreted by FME. A licence is required to run the software. The workbench can be downloaded and run by those having an appropriate FME licence.
 
